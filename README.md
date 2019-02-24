@@ -17,6 +17,7 @@ Programa | Descripción
 **06-Temperatura** | Sensor de temperatura
 **07-Luz** | Sensor de luz
 **08-DisplayLCD** | Display LCD
+**08-Reto1** | Solución Reto 1
 **09-UltrasonicoNeopixelPot** | Ultrasonico con Neopizel y potenciometro
 **10-Buzzer** | Zumbador con arreglos
 **11-BuzzerV2** |  Zumbador con matrices
