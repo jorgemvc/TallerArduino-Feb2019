@@ -21,6 +21,8 @@ Programa | Descripción
 **09-UltrasonicoNeopixelPot** | Ultrasonico con Neopizel y potenciometro
 **10-Buzzer** | Zumbador con arreglos
 **11-BuzzerV2** |  Zumbador con matrices
+**12-Reto2** |  Solución Reto 2
+**13-Servo** |  Servo motor + potenciometro
 
 ## Licencia
 Este proyecto ha sido liberado bajo la licencia: **MIT License**
