@@ -11,7 +11,7 @@
 
 Servo myservo;   // Instancia de un servo
 int 
-  potPin   = A0,   // Puerto analógico del potenciómetro
+  potPin   = A0, // Puerto analógico del potenciómetro
   servoPin = 11, // Puerto PWM para manejo del Servo
   val;           // Lectura del potenciometro [0-1023]
 
